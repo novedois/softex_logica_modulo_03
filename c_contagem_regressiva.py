@@ -1,6 +1,5 @@
 import time
 
-
 print("\n* * * * Bomba * * * *\n")
 
 segundos = int(input("Digite o número de segundos: "))
