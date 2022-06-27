@@ -86,6 +86,4 @@ Candidato Z: \t{candidato_z} votos
 Votos válidos: \t{total_votos_validos}
 Votos nulos: \t{nulos}
 Votos totais: \t{total_votos_validos + nulos}
-
-
 """)
